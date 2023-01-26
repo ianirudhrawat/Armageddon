@@ -121,15 +121,15 @@
     - - [x] Queue using Stack and Vice versa
     - - [x] Circular Queue
 - [ ] Dynamic Programming
-    - - [] Introduction
-    - - [] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [] Complexity Analysis
-    - - [] 0/1 Knapsack
-    - - [] Subset Questions
-    - - [] DP on Grids
-    - - [] LC Questions on Above topics
+    - - [ ] Introduction
+    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [ ] Complexity Analysis
+    - - [ ] 0/1 Knapsack
+    - - [ ] Subset Questions
+    - - [ ] DP on Grids
+    - - [ ] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [] Subseq questions
+    - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
     - - [x] Introduction
